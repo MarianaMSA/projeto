@@ -1,0 +1,30 @@
+form {
+    margin: 3rem 36vw;
+    width: 500px;
+    text-align: center;
+    border-radius: 3%;
+    padding: 1rem;
+    box-shadow: 5px 2px 20px 2px #000000;
+    flex-wrap: wrap;
+    
+  }
+  
+  label {
+    text-shadow: .1em .1em .2em black;
+    padding: 1rem;
+    color: #fff;
+    font: weight 400;
+    font-size: 1.5rem;
+  }
+  
+  
+  h1 {
+    text-align: center;
+    margin: 0 0 2rem;
+    color: #fff;
+    text-shadow: .1em .1em .2em black
+  }
+  
+  .form-div-space {
+    padding: 1rem;
+  }
